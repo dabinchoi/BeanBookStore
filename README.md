@@ -1,4 +1,4 @@
 # BeanBookStore
 make simple shopping mall 
 out team name : Bean's bookstore
-members : ÃÖ´Ùºó Á¶ÀºÇö ¼­Ã»¿ø
+members : ìµœë‹¤ë¹ˆ ì¡°ì€í˜„ 
